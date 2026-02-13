@@ -24,7 +24,7 @@ This project analyzes retail sales data to identify key business insights, inclu
 2. Run cleaning script: `python src/data_cleaning.py`
 3. View analysis: Open `notebooks/analysis.ipynb`
 
-##Visualization
+## Visualization
 
 - Graph 1:Total Sales Revenue by City
   ![City Revenue](images/graph1_city_revenue.png)
