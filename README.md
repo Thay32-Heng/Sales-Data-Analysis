@@ -27,7 +27,7 @@ This project analyzes retail sales data to identify key business insights, inclu
 ##Visualization
 
 - Graph 1:Total Sales Revenue by City
-  ![City Revenue](../images/graph1_city_revenue.png)
+  ![City Revenue](images/graph1_city_revenue.png)
   - Top Market: New York leads in total revenue, suggesting it is the most profitable branch.
 
   - Market Stability: Revenue is distributed relatively evenly across all cities, showing a balanced business presence.
