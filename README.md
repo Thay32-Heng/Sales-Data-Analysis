@@ -35,7 +35,7 @@ This project analyzes retail sales data to identify key business insights, inclu
 _Insight: New York shows the highest revenue among all branches._
 
 - Graph 2: Customer Spending Behavior (Member vs. Normal)
-  ![Customer Behavior](../images/graph2_customer_spending.png)
+  ![Customer Behavior](images/graph2_customer_spending.png)
   - Loyalty Impact: Members generally contribute more to the total revenue compared to Normal customers.
 
   - Gender Trends: Female members in certain branches show a higher spending pattern, which is a key insight for targeted marketing.
@@ -43,7 +43,7 @@ _Insight: New York shows the highest revenue among all branches._
   _Insight: Members spend more than regular customers, especially in the Female segment._
 
 - Graph 3: Product Category Performance
-  ![Product Performance](../images/graph3_product_performance.png)
+  ![Product Performance](images/graph3_product_performance.png)
   - Best Sellers: Food and Beverages and Fashion Accessories are the top-performing categories.
 
   - Inventory Optimization: Low-performing categories should be reviewed for stock reduction or promotional discounts.
@@ -51,7 +51,7 @@ _Insight: New York shows the highest revenue among all branches._
   _Insight: Food and Beverages is the most profitable category._
 
 - Graph 4: Unit Price vs. Quantity (Correlation)
-  ![Price Correlation](../images/graph4_price_correlation.png)
+  ![Price Correlation](images/graph4_price_correlation.png)
   - Price Sensitivity: There is a wide distribution of purchases across all price points, suggesting customers are not highly sensitive to unit prices within this range.
 
   - Bulk Buying: High-quantity purchases occur even for mid-to-high priced items, indicating strong purchasing power among the customer base.
